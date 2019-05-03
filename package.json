@@ -1,0 +1,13 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-browser-utils": "0.0.8",
+        "node-red-contrib-image-output": "~0.4.0",
+        "node-red-contrib-machine-learning": "~1.0.8",
+        "node-red-contrib-model-asset-exchange": "~0.2.3",
+        "node-red-contrib-mongodb": "~0.3.4",
+        "node-red-contrib-mongodb-variable": "0.0.5"
+    }
+}
